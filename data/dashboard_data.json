@@ -1,0 +1,281 @@
+{
+  "quarters": [
+    {
+      "quarter": "4th quarter 2025",
+      "total": 1012,
+      "enterprises": 866,
+      "personal": 146,
+      "construction": 246,
+      "trade": 157
+    },
+    {
+      "quarter": "1st quarter 2026",
+      "total": 920,
+      "enterprises": 889,
+      "personal": 31,
+      "construction": 250,
+      "trade": 135
+    },
+    {
+      "quarter": "2nd quarter 2026",
+      "total": 950,
+      "enterprises": 930,
+      "personal": 20,
+      "construction": 237,
+      "trade": 141
+    },
+    {
+      "quarter": "3rd quarter 2026",
+      "total": 783,
+      "enterprises": 758,
+      "personal": 25,
+      "construction": 184,
+      "trade": 149
+    }
+  ],
+  "sectors": [
+    {
+      "name": "Agriculture, forestry and fishing",
+      "enterprise_2025": 14,
+      "personal_2025": 2,
+      "enterprise_2026": 5,
+      "personal_2026": 2
+    },
+    {
+      "name": "Mining and quarrying",
+      "enterprise_2025": 1,
+      "personal_2025": 0,
+      "enterprise_2026": 1,
+      "personal_2026": 0
+    },
+    {
+      "name": "Manufacturing",
+      "enterprise_2025": 36,
+      "personal_2025": 0,
+      "enterprise_2026": 31,
+      "personal_2026": 2
+    },
+    {
+      "name": "Electricity, gas, steam and air conditioning supply",
+      "enterprise_2025": 2,
+      "personal_2025": 0,
+      "enterprise_2026": 2,
+      "personal_2026": 0
+    },
+    {
+      "name": "Water supply",
+      "enterprise_2025": 2,
+      "personal_2025": 0,
+      "enterprise_2026": 2,
+      "personal_2026": 0
+    },
+    {
+      "name": "Construction",
+      "enterprise_2025": 194,
+      "personal_2025": 30,
+      "enterprise_2026": 181,
+      "personal_2026": 3
+    },
+    {
+      "name": "Wholesale and retail trade",
+      "enterprise_2025": 144,
+      "personal_2025": 3,
+      "enterprise_2026": 148,
+      "personal_2026": 1
+    },
+    {
+      "name": "Transportation and storage",
+      "enterprise_2025": 42,
+      "personal_2025": 18,
+      "enterprise_2026": 34,
+      "personal_2026": 7
+    },
+    {
+      "name": "Accommodation and food service activities",
+      "enterprise_2025": 93,
+      "personal_2025": 3,
+      "enterprise_2026": 87,
+      "personal_2026": 0
+    },
+    {
+      "name": "Information and communication",
+      "enterprise_2025": 41,
+      "personal_2025": 1,
+      "enterprise_2026": 23,
+      "personal_2026": 2
+    },
+    {
+      "name": "Financial and insurance activities",
+      "enterprise_2025": 0,
+      "personal_2025": 0,
+      "enterprise_2026": 5,
+      "personal_2026": 0
+    },
+    {
+      "name": "Real estate activities",
+      "enterprise_2025": 57,
+      "personal_2025": 0,
+      "enterprise_2026": 47,
+      "personal_2026": 0
+    },
+    {
+      "name": "Professional, scientific and technical activities",
+      "enterprise_2025": 76,
+      "personal_2025": 8,
+      "enterprise_2026": 76,
+      "personal_2026": 5
+    },
+    {
+      "name": "Administrative and support service activities",
+      "enterprise_2025": 44,
+      "personal_2025": 3,
+      "enterprise_2026": 40,
+      "personal_2026": 1
+    },
+    {
+      "name": "Public administration and defence",
+      "enterprise_2025": 0,
+      "personal_2025": 0,
+      "enterprise_2026": 0,
+      "personal_2026": 0
+    },
+    {
+      "name": "Education",
+      "enterprise_2025": 11,
+      "personal_2025": 0,
+      "enterprise_2026": 9,
+      "personal_2026": 0
+    },
+    {
+      "name": "Human health and social work activities",
+      "enterprise_2025": 15,
+      "personal_2025": 0,
+      "enterprise_2026": 8,
+      "personal_2026": 0
+    },
+    {
+      "name": "Arts, entertainment and recreation",
+      "enterprise_2025": 24,
+      "personal_2025": 1,
+      "enterprise_2026": 15,
+      "personal_2026": 1
+    },
+    {
+      "name": "Other service activities",
+      "enterprise_2025": 14,
+      "personal_2025": 8,
+      "enterprise_2026": 27,
+      "personal_2026": 1
+    },
+    {
+      "name": "Activities of household as employers",
+      "enterprise_2025": 0,
+      "personal_2025": 0,
+      "enterprise_2026": 0,
+      "personal_2026": 0
+    },
+    {
+      "name": "Activities of extraterritorial organisations and bodies",
+      "enterprise_2025": 0,
+      "personal_2025": 0,
+      "enterprise_2026": 0,
+      "personal_2026": 0
+    },
+    {
+      "name": "Unknown industry",
+      "enterprise_2025": 23,
+      "personal_2025": 1,
+      "enterprise_2026": 17,
+      "personal_2026": 0
+    }
+  ],
+  "regions": [
+    {
+      "name": "Østfold",
+      "total_2025": 58,
+      "total_2026": 43
+    },
+    {
+      "name": "Akershus",
+      "total_2025": 155,
+      "total_2026": 143
+    },
+    {
+      "name": "Oslo - Oslove",
+      "total_2025": 167,
+      "total_2026": 137
+    },
+    {
+      "name": "Innlandet",
+      "total_2025": 43,
+      "total_2026": 39
+    },
+    {
+      "name": "Buskerud",
+      "total_2025": 41,
+      "total_2026": 48
+    },
+    {
+      "name": "Vestfold",
+      "total_2025": 56,
+      "total_2026": 34
+    },
+    {
+      "name": "Telemark",
+      "total_2025": 30,
+      "total_2026": 27
+    },
+    {
+      "name": "Agder",
+      "total_2025": 58,
+      "total_2026": 42
+    },
+    {
+      "name": "Rogaland",
+      "total_2025": 69,
+      "total_2026": 43
+    },
+    {
+      "name": "Vestland",
+      "total_2025": 83,
+      "total_2026": 63
+    },
+    {
+      "name": "Møre og Romsdal",
+      "total_2025": 35,
+      "total_2026": 42
+    },
+    {
+      "name": "Trøndelag - Trööndelage",
+      "total_2025": 75,
+      "total_2026": 74
+    },
+    {
+      "name": "Nordland - Nordlánnda",
+      "total_2025": 22,
+      "total_2026": 22
+    },
+    {
+      "name": "Troms - Romsa - Tromssa",
+      "total_2025": 14,
+      "total_2026": 20
+    },
+    {
+      "name": "Finnmark - Finnmárku - Finmarkku",
+      "total_2025": 5,
+      "total_2026": 5
+    },
+    {
+      "name": "County not stated",
+      "total_2025": 0,
+      "total_2026": 1
+    }
+  ],
+  "impact": {
+    "turnover_2025_kNOK": 4856819,
+    "turnover_2026_kNOK": 4291212,
+    "persons_2025": 3245,
+    "persons_2026": 2593
+  },
+  "source_updated": "2026-10-22"
+}
